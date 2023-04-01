@@ -10,8 +10,8 @@ import Management from './Pages/Management'
 import Marketing from './Pages/Marketing'
 import Sales from './Pages/Sales'
 import Contact from './Pages/Contact'
-import Nav from './component/Nav';
-import Footer from './component/Footer';
+import Nav from './Component/Nav';
+import Footer from './Component/Footer';
 
 
 function App() {
