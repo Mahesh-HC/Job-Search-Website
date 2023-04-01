@@ -1,0 +1,21 @@
+.nav-link {
+    cursor: pointer;
+    border: 1px solid darkmagenta;
+    border-radius: 5%;
+}
+
+.text {
+    text-decoration: none;
+}
+
+.fs-4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label {
+    text-decoration: none;
+}
+
+.text {
+    color: darkmagenta;
+}

@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: azure;
 }
 
 .App-logo {
@@ -32,7 +33,12 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+NavLink:hover {
+  color: red;
 }
